@@ -56,3 +56,11 @@ https://github.com/user-attachments/assets/e5b5b8ba-bf65-483c-b7e2-243517c60bba
 
 - Clone the repository
 
+## 🛠 Technologies Used
+- **SwiftUI** – Declarative UI framework for Apple platforms
+- **SwiftData** – Native data persistence framework for managing local models
+- **MVVM Architecture** – Ensures clear separation of concerns and testability
+
+## 📬 Contact
+For questions, suggestions, or contributions, feel free to open an issue or contact me at:
+📧 omkar.raut2355@gmail.com
